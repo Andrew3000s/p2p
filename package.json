@@ -2,7 +2,7 @@
   "name": "peertransfer",
   "version": "2.1.1",
   "description": "In-browser P2P-filetransfer in three simple steps: 1) Drop files into your browser. 2) Open the generated link on the second PC. 3) Download the files over a direct and encrypted line.",
-  "homepage": "https://github.com/perguth/peertransfer",
+  "homepage": "https://andrew3000s.github.io/p2p/",
   "keywords": [
     "WebRTC",
     "p2p",
@@ -37,11 +37,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/perguth/peertransfer.git"
+    "url": "https://andrew3000s.github.io/p2p"
   },
   "author": "Per Guth <mail@perguth.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/perguth/peertransfer/issues"
+    "url": "https://andrew3000s.github.io/p2p"
   }
 }
